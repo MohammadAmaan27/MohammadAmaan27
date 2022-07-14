@@ -10,7 +10,7 @@
 
 🔭 Currently working in React.js
 
-🌱 Currently Learning DevOps and Web3
+🌱 Currently learning DevOps and Web3
 
 💬 Ask me about React or any tech related stuff
 
